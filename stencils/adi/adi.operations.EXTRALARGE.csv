@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+adi,23976002014,55888056002,55904042000,7984008000,55888056004,15968016000,7,0,0,0,0,15968016002,0,15972013000,0

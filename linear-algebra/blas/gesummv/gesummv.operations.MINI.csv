@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+gesummv,1921,1830,0,1860,0,0,0,0,0,0,0,0,0,930,0

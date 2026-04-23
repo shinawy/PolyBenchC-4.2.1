@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+bicg,321012,319800,0,319800,0,0,0,0,0,0,0,0,0,160700,0

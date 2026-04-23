@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+jacobi-2d,626641,3717120,1872720,0,619520,0,0,0,0,0,0,0,0,626600,0

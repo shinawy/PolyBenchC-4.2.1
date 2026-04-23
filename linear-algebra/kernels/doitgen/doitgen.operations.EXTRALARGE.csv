@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+doitgen,4054160251,4009500000,0,4009500000,0,0,0,0,0,0,0,0,0,4039255250,0

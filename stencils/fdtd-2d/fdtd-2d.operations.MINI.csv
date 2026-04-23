@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+fdtd-2d,35861,33060,113860,0,34020,0,0,0,0,0,0,0,0,35800,0

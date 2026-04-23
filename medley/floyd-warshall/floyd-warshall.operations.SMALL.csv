@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+floyd-warshall,5864581,11664000,0,0,0,0,0,0,5832000,0,0,0,5832000,5864580,0

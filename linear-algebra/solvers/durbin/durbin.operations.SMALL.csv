@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+durbin,837,119,119,119,119,0,119,0,0,0,0,121,0,119,0

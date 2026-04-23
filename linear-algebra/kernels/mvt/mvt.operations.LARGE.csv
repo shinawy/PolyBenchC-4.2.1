@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+mvt,8004002,8000000,0,8000000,0,0,0,0,0,0,0,0,0,8004000,0

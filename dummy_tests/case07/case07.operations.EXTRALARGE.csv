@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+case07,3,2,0,0,0,0,1,1,0,0,0,1,0,0,0

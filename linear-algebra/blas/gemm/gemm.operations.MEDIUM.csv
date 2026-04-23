@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+gemm,10652401,10560000,0,21164000,0,0,0,0,0,0,0,0,0,10652200,0

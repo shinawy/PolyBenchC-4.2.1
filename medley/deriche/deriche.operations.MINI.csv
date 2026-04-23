@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+deriche,83219,57346,132,12295,61444,1,0,0,0,0,0,10,0,24960,9

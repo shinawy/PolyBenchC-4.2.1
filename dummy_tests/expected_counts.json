@@ -1,0 +1,12 @@
+{
+  "case01/case01.c": {"assign": 1, "add": 1},
+  "case02/case02.c": {"assign": 2, "mul_const": 1, "mul": 1, "add": 1},
+  "case03/case03.c": {"assign": 3, "if": 1, "cmp": 1, "sub": 2},
+  "case04/case04.c": {"assign": 6, "add": 4, "loop_for": 4, "cmp": 0, "unary": 0},
+  "case05/case05.c": {"assign": 10, "add": 6, "mul": 6, "loop_for": 8, "cmp": 0, "unary": 0},
+  "case06/case06.c": {"assign": 2, "bitwise": 4, "cmp": 2, "logical": 1, "if": 1},
+  "case07/case07.c": {"assign": 3, "unary": 1, "div": 0, "div_const": 1, "mod": 1, "add": 2},
+  "case08/case08.c": {"assign": 5, "add": 4, "call": 3, "loop_for": 3, "cmp": 0, "unary": 0},
+  "case09/case09.c": {"assign": 7, "add": 4, "loop_for": 4, "cmp": 0, "unary": 0},
+  "case10/case10.c": {"assign": 7, "add": 5, "mul_const": 5, "loop_for": 5, "cmp": 0, "unary": 0}
+}

@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+covariance,1939,896,896,0,0,28,0,0,0,0,0,0,0,1880,0

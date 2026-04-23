@@ -1,0 +1,10 @@
+{
+  "target": "../",
+  "dataset": "MINI",
+  "strict_static": false,
+  "llvm_validate": false,
+  "master_name": "op_reporter_master_report.md",
+  "suffix": "operations",
+  "requirements_file": "requirements.txt",
+  "no_auto_install": false
+}

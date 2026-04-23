@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+heat-3d,494001,4199040,3320720,0,2799360,0,0,0,0,0,0,0,0,493960,0

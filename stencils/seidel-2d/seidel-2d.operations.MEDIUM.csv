@@ -1,0 +1,2 @@
+benchmark,assign,add,sub,mul,mul_const,div,div_const,mod,cmp,logical,bitwise,unary,if,loop_for,call
+seidel-2d,15880301,221765600,110962601,0,0,0,15840400,0,0,0,0,0,0,15880300,0
